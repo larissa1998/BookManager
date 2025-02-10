@@ -6,8 +6,13 @@ The API includes a secure authentication system using JWT tokens and applies pas
 
 # Key Features
 ✅ RESTful API → Follows the REST standard for efficient client-server communication.
+
 ✅ Clean Architecture → Well-structured layers for easier maintenance and expansion.
+
 ✅ CQRS Pattern → Separates commands (write operations) and queries (read operations) for better scalability and performance.
+
 ✅ JWT Authentication → Secure authentication system using JSON Web Tokens.
+
 ✅ Password Encryption → User passwords are securely stored.
+
 ✅ Unit Testing with XUnit → Automated tests ensure code functionality and integrity.
